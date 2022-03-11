@@ -14,7 +14,7 @@ pip install requests
 
 git clone https://github.com/Ceshack7/ToolKit-
 
-cd TooKit-/
+cd ToolKit-
 
 python ToolKit.py
 ~~~
