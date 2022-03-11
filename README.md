@@ -2,7 +2,9 @@
 *Trackeo de IP*
 # copia barata de ovni 
 *Instalación en termux*
-~~~pkg upgrade
+
+~~~
+pkg upgrade
 
 pkg install python
 
@@ -15,3 +17,4 @@ git clone https://github.com/Ceshack7/ToolKit-
 cd TooKit-/
 
 python ToolKit.py
+~~~
